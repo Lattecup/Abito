@@ -1,0 +1,7 @@
+.search-panel__input {
+  flex-grow: 1;
+  background: #FFFFFF;
+  border-radius: 5px;
+  border: none;
+  padding: 0 22px;
+}

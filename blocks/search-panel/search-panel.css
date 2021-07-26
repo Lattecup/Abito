@@ -1,0 +1,7 @@
+.search-panel {
+  height: 50px;
+  background-color: #256EEB;
+  border-radius: 5px;
+  display: flex;
+  padding: 3px;
+}

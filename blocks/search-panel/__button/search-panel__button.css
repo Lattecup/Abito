@@ -1,0 +1,10 @@
+.search-panel__button {
+  background-color: #256EEB;
+  border: none;
+  color: #fff;
+  padding-left: 20px;
+  padding-right: 17px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
