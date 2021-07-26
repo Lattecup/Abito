@@ -3,3 +3,4 @@
 ## Используемые технологии:
 - HTML5
 - CSS3 (Flexbox)
+- BEM methodology
