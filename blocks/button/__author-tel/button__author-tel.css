@@ -1,0 +1,11 @@
+.button__author-tel {
+  display: block;
+  width: 100%;
+  height: 54px;
+  margin-bottom: 14px;
+  background-color: #256EEB;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #FFF;
+}

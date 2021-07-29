@@ -1,0 +1,59 @@
+@import url(../blocks/advert-page__content/advert-page.css);
+@import url(../blocks/advert-page__content/__content/advert-page__content.css);
+@import url(../blocks/advert-page__content/__text/advert-page__text.css);
+
+@import url(../blocks/advert-page__content/__author/advert-page__author.css);
+@import url(../blocks/advert-page__content/__price/advert-page__price.css);
+@import url(../blocks/advert-page__content/__author-wrapper/advert-page__author-wrapper.css);
+
+@import url(../blocks/advert-page__content/__author-name/advert-page__author-name.css);
+@import url(../blocks/advert-page__content/__author-rating/advert-page__author-rating.css);
+@import url(../blocks/advert-page__content/_author-rating-counter/advert-page__author-rating-counter.css);
+@import url(../blocks/advert-page__content/__author-status/advert-page__author-status.css);
+
+@import url(../blocks/advert-page__content/__author-avatar/advert-page__author-avatar.css);
+@import url(../blocks/button/__author-tel/button__author-tel.css);
+@import url(../blocks/button/__author-msg/button__author-msg.css);
+
+.swiper-container {
+  width: 100%;
+  height: 357px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.swiper-slide {
+  background-size: cover;
+  background-position: center;
+}
+
+.mySwiper2 {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.mySwiper {
+  height: 20%;
+  box-sizing: border-box;
+  padding: 10px 0;
+}
+
+.mySwiper .swiper-slide {
+  width: 25%;
+  height: 100%;
+  opacity: 0.4;
+  border-radius: 10px;
+}
+
+.mySwiper .swiper-slide-thumb-active {
+  opacity: 1;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 3px;
+}

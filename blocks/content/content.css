@@ -1,5 +1,18 @@
 .content {
   display: grid;
   grid-template-columns: 9fr 3fr;
-  grid-column-gap: 30px;
+  grid-column-gap: 10px;
+  margin-bottom: 50px;
+}
+
+@media screen and (max-width: 768px) {
+  .content {
+    grid-template-columns: 8fr 4fr;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .content {
+    grid-template-columns: 12fr;
+  }
 }

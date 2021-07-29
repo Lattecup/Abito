@@ -5,3 +5,27 @@
   max-width: 1146px;
   margin: auto;
 }
+
+@media screen and (max-width: 1200px) {
+  .page {
+    max-width: 960px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .page {
+    max-width: 740px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page {
+    max-width: 560px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .page {
+    max-width: 90%;
+  }
+}

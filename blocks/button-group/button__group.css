@@ -1,0 +1,9 @@
+.button-group {
+  display: flex;
+}
+
+@media screen and (max-width: 768px) {
+  .button-group {
+    flex-direction: column;
+  }
+}

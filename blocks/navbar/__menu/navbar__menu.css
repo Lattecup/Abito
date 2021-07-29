@@ -1,3 +1,10 @@
 .navbar__menu {
   margin-right: auto;
 }
+
+@media screen and (max-width: 768px) {
+  .navbar__menu {
+    margin-left: auto;
+    margin-bottom: 20px;
+  }
+}

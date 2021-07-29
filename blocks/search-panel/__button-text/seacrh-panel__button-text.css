@@ -1,3 +1,9 @@
 .search-panel__button-text {
   margin-left: 5px;
 }
+
+@media screen and (max-width: 576px) {
+  .search-panel__button-text {
+    display: none;
+  }
+}

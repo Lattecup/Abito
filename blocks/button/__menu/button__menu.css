@@ -1,0 +1,12 @@
+.button__menu {
+  background-color: #FFF;
+  border: none;
+  cursor: pointer;
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .button__menu {
+    display: block;
+  }
+}

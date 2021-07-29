@@ -1,0 +1,16 @@
+.button__menu-close {
+  display: none;
+  border: none;
+  background-color: #FFF;
+}
+
+@media screen and (max-width: 768px) {
+  .button__menu-close {
+    display: block;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    cursor: pointer;
+  }
+}
+
