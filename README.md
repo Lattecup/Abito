@@ -2,7 +2,7 @@
 Учебный проект Glo Academy по адаптивной вёрстке главной страницы сайта объявлений.
 ## Используемые технологии:
 - HTML5
-- CSS3 (Flexbox, Grid Layout)
+- CSS3 (Flexbox, Grid Layout, @media)
 - JavaScript
 - BEM methodology
 ## Доступен по ссылке:
